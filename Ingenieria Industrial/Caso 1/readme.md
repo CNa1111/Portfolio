@@ -11,7 +11,11 @@ Una fábrica de empanadas presenta retrasos en la entrega de pedidos durante los
 
 #### Tabla 2: Producción
 
-<img width="646" height="189" alt="image" src="https://github.com/user-attachments/assets/335f5e51-054e-4266-a8ec-a496adda47fc" />
+<img width="751" height="188" alt="image" src="https://github.com/user-attachments/assets/31785a93-02bd-4c6f-87fc-ff0645f1f010" />
+
+*WIP acumulado= WIP anterior + entrada - salida* 
+
+! Vamos a suponer que el horno produce 72 unidades/hora
 
 #### Gráfico 1: Demanda vs Producción 
 
