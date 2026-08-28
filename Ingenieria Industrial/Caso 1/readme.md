@@ -6,6 +6,7 @@ Una fábrica de empanadas presenta retrasos en la entrega de pedidos durante los
 #### Tabla 1: Tiempos de procesos
 
 <img width="626" height="189" alt="image" src="https://github.com/user-attachments/assets/bd574885-3a82-42b0-b9a3-ebdfa640b5bf" />
+
 *Capacidad=3600 segundos/tiempo de ciclo (seg). cantidad de operarios*
 
 #### Tabla 2: Producción
