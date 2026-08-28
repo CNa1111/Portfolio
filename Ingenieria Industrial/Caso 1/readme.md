@@ -3,14 +3,17 @@
 ## Situación del problema
 Una fábrica de empanadas presenta retrasos en la entrega de pedidos durante los períodos de mayor demanda. Se busca analizar el proceso productivo, identificar el cuello de botella y proponer mejoras que permitan aumentar la capacidad sin incrementar significativamente los costos.
 ### Información 
-Tabla 1: Tiempos de procesos
+#### Tabla 1: Tiempos de procesos
+
 <img width="626" height="189" alt="image" src="https://github.com/user-attachments/assets/bd574885-3a82-42b0-b9a3-ebdfa640b5bf" />
 *Capacidad=3600 segundos/tiempo de ciclo (seg). cantidad de operarios*
 
-Tabla 2: Producción
+#### Tabla 2: Producción
+
 <img width="646" height="189" alt="image" src="https://github.com/user-attachments/assets/335f5e51-054e-4266-a8ec-a496adda47fc" />
 
-Gráfico 1: Demanda vs Producción 
+#### Gráfico 1: Demanda vs Producción 
+
 <img width="596" height="367" alt="image" src="https://github.com/user-attachments/assets/ff3ae3fe-a210-4e5a-9b1a-271bfd9f3cf5" />
 
 
