@@ -3,7 +3,7 @@
 ## Situación del problema
 Una fábrica de empanadas presenta retrasos en la entrega de pedidos durante los períodos de mayor demanda. Se busca analizar el proceso productivo, identificar el cuello de botella y proponer mejoras que permitan aumentar la capacidad sin incrementar significativamente los costos.
 ### Información 
-#### Proceso 
+#### Proceso de producción
 
 <img width="1692" height="930" alt="ChatGPT Image 28 ago 2026, 12_41_47 a m" src="https://github.com/user-attachments/assets/3ec260b0-3fc4-4968-89a1-d19cd080f339" />
 
