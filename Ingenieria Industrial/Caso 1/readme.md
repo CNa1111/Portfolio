@@ -17,9 +17,9 @@ Una fábrica de empanadas presenta retrasos en la entrega de pedidos durante los
 
 <img width="751" height="188" alt="image" src="https://github.com/user-attachments/assets/31785a93-02bd-4c6f-87fc-ff0645f1f010" />
 
-** Definición: WIP → cuántas empanadas están dentro del sistema esperando/procesándose. **
+**Definición: WIP → cuántas empanadas están dentro del sistema esperando/procesándose.**
 
-** Definición: Tiempo de espera → cuánto tiempo tiene que esperar una empanada antes de ser procesada. **
+**Definición: Tiempo de espera → cuánto tiempo tiene que esperar una empanada antes de ser procesada.**
 
 *WIP acumulado= WIP anterior + entrada - salida* 
 
@@ -27,7 +27,8 @@ Una fábrica de empanadas presenta retrasos en la entrega de pedidos durante los
 
 #### Gráfico 1: Demanda vs Producción 
 
-<img width="596" height="367" alt="image" src="https://github.com/user-attachments/assets/ff3ae3fe-a210-4e5a-9b1a-271bfd9f3cf5" />
+<img width="598" height="361" alt="image" src="https://github.com/user-attachments/assets/78665a8f-ffe6-4b9e-b5ea-3c272ce26309" />
+
 
 
 
