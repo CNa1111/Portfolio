@@ -10,7 +10,8 @@ Mejorar el proceso de producción y cumplir con la demanda.
 
 Para conocer como funciona actualmente nuestro proceso. 
 
-<img width="1692" height="930" alt="ChatGPT Image 28 ago 2026, 12_41_47 a m" src="https://github.com/user-attachments/assets/3ec260b0-3fc4-4968-89a1-d19cd080f339" />
+<img width="608" height="177" alt="image" src="https://github.com/user-attachments/assets/2265668d-41ae-40bc-a472-9d3d57360aa8" />
+
 
 ## 3.Definir las etapas y recursos
 
@@ -38,7 +39,7 @@ Para conocer como funciona actualmente nuestro proceso.
 
 ## 6. Comparación de la Capacidad y la demanda
 
-<img width="527" height="221" alt="image" src="https://github.com/user-attachments/assets/0c75f140-cd9c-41dc-a2d0-cbf2b5ee4ad8" />
+<img width="519" height="209" alt="image" src="https://github.com/user-attachments/assets/17c01254-6345-45b8-a82b-465a5ca35df9" />
 
 ### Gráfico 1: 
 
