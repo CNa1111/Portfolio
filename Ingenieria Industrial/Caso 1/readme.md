@@ -3,16 +3,16 @@
 ## Situación del problema
 Una pequeña fábrica de empanadas presenta demoras en la entrega de pedidos durante determinados períodos del día. Se busca analizar el proceso productivo, determinar si la capacidad disponible permite satisfacer la demanda, identificar restricciones y proponer mejoras.
 
-## 1.Objetivo 
+## 1. Objetivo 
 Mejorar el proceso de producción y cumplir con la demanda.
 
-## 2.Proceso de producción
+## 2. Proceso de producción
 
 Para conocer como funciona actualmente nuestro proceso. 
 
 <img width="683" height="365" alt="image" src="https://github.com/user-attachments/assets/4c70d895-d987-4028-a8c4-f356eb32f84e" />
 
-## 3.Definir las etapas y recursos
+## 3. Definir las etapas y recursos
 
 #### Tabla 1: Tiempos de procesos
 
@@ -78,16 +78,16 @@ Herramienta: 5 Por qué?
 
 ## 9. Proponer alternativas de solución
 
-Alternativa 1
+**Alternativa 1**
 * Optimizar la carga del horno
 
-Alternativa 2 
+**Alternativa 2** 
 * Reducir tiempos de carga y descarga
 
-Alternativa 3
+**Alternativa 3**
 * Estandarizar el método de cocción.
 
-Alternativa 4
+**Alternativa 4**
 * Agregar otro horno
 
 #### Matriz de Impacto vs Esfuerzo
