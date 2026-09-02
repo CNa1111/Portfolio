@@ -10,8 +10,7 @@ Mejorar el proceso de producción y cumplir con la demanda.
 
 Para conocer como funciona actualmente nuestro proceso. 
 
-
-
+<img width="683" height="365" alt="image" src="https://github.com/user-attachments/assets/4c70d895-d987-4028-a8c4-f356eb32f84e" />
 
 ## 3.Definir las etapas y recursos
 
@@ -33,13 +32,13 @@ Para conocer como funciona actualmente nuestro proceso.
 
 #### Tabla 2: Demanda
 
-<img width="269" height="217" alt="image" src="https://github.com/user-attachments/assets/5ce387e1-8293-4916-aa50-9db8973daed8" />
+<img width="258" height="206" alt="image" src="https://github.com/user-attachments/assets/c5393895-4d4d-4018-98ab-fb0bc60553f2" />
 
 ❗❗ Acá podemos observar el comportamiento de los pedidos según la hora.
 
 ## 6. Comparación de la Capacidad y la demanda
 
-<img width="519" height="209" alt="image" src="https://github.com/user-attachments/assets/17c01254-6345-45b8-a82b-465a5ca35df9" />
+<img width="517" height="209" alt="image" src="https://github.com/user-attachments/assets/a75d88e3-4cbd-459b-bce4-07b5b61fed19" />
 
 ### Gráfico 1: 
 
