@@ -38,7 +38,7 @@ Para conocer como funciona actualmente nuestro proceso.
 
 ## 6. Comparación de la Capacidad y demanda
 
-#### Tabla 3
+#### Tabla 3:
 <img width="517" height="209" alt="image" src="https://github.com/user-attachments/assets/a75d88e3-4cbd-459b-bce4-07b5b61fed19" />
 
 #### Gráfico 1: 
@@ -94,6 +94,14 @@ Herramienta: 5 Por qué?
 
 <img width="633" height="389" alt="image" src="https://github.com/user-attachments/assets/32a79d26-c2f0-4bb1-bc9e-f39bedc12568" />
 
+Entonces, vamos a empezar con algo con bajo costo y alto impacto. Las alternativas B+C+D que es mejorar el proceso sin necesidad de entrar en un gran gasto.
+
+## 10. Antes vs Después
+
+<img width="534" height="351" alt="image" src="https://github.com/user-attachments/assets/b6688662-478b-4213-a30b-ba0ad6125eb2" />
+
+
+<img width="1536" height="1024" alt="ChatGPT Image 1 sept 2026, 10_57_02 p m" src="https://github.com/user-attachments/assets/9f21ed5c-5ab7-4235-9ebe-7dae90c94646" />
 
    
 
