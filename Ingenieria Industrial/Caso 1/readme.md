@@ -115,6 +115,7 @@ El operario:
 7. Busca dónde colocar la producción.
 
 **Despúes**
+
 Se propone:
 
 1. Bandejas preparadas previamente.
@@ -148,9 +149,11 @@ Donde las primeras dos alternativas es una mejora de eficiencia, en cambio la te
 
 ## 10. Antes vs Después
 
-<img width="534" height="351" alt="image" src="https://github.com/user-attachments/assets/b6688662-478b-4213-a30b-ba0ad6125eb2" />
+<img width="534" height="349" alt="image" src="https://github.com/user-attachments/assets/dbd1bcbe-5944-444f-9af0-0ba073aeba1e" />
 
 
+
+#### Diagrama de flujo de antes y despúes
 <img width="1536" height="1024" alt="ChatGPT Image 1 sept 2026, 11_45_25 p m" src="https://github.com/user-attachments/assets/9e2ffa1a-7901-4c47-a620-789fdd55745b" />
 
    
