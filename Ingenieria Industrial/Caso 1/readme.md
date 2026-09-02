@@ -96,7 +96,7 @@ Herramienta: 5 Por qué?
 
 Entonces, vamos a empezar con algo con bajo costo y alto impacto. Las alternativas A+B+C que es mejorar el proceso sin necesidad de entrar en un gran gasto.
 
-**Alternativa A +B **
+**Alternativa A +B**
 * Estandarizar la carga y descarga del horno y organizar las bandejas para reducir tiempos improductivos.
 Suponemos: Se estima que la estandarización de la carga y descarga del horno permitirá reducir el tiempo de ciclo de cocción de 50 a 45 segundos por unidad. Se supone que se reorganizaron de tal forma de reducir tiempo, no que las empanadas se cocinan mas rápido.
 
@@ -127,7 +127,8 @@ Ahora se tarda 45 segundos/ unidad --> corresponde a 3600 segundos/ 45 segundos=
 
 La capacidad aumenta un 11,1%
 
-** Alternativa 3**
+**Alternativa 3**
+
 **Antes**
 * El operario decide cómo distribuir las empanadas.
 * La cantidad por bandeja puede variar.
