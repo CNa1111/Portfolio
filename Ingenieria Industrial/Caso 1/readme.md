@@ -36,7 +36,7 @@ Para conocer como funciona actualmente nuestro proceso.
 
 ❗❗ Acá podemos observar el comportamiento de los pedidos según la hora.
 
-## 6. Comparación de la Capacidad y la demanda
+## 6. Comparación de la Capacidad y demanda
 
 #### Tabla 3
 <img width="517" height="209" alt="image" src="https://github.com/user-attachments/assets/a75d88e3-4cbd-459b-bce4-07b5b61fed19" />
@@ -47,7 +47,7 @@ Para conocer como funciona actualmente nuestro proceso.
 
 Lo que se puede observar en el gráfico, es que la producción es constante de 72 empanadas por hora, ya que tenemos un único horno. En cambio, la demanda en ciertos momentos supera la producción. 
 
-## 7. Análisar la utilización
+## 7. Análizar la utilización
 
 #### Tabla 4:
 
