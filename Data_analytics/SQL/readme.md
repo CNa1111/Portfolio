@@ -8,9 +8,11 @@ Práctica y aprendizaje de SQL para análisis de datos. Incluye consultas, filtr
 **FROM:** Indica de que tabla queremos ver los datos
 
 **WHERE:** Permite filtrar registros según una condición.
-`SELECT *
-FROM clientes
-WHERE edad > 30;`
+`SELECT *`
+
+`FROM clientes`
+
+`WHERE edad > 30;`
 
 ## Prácticas con Big Query Google
 1. Analizar la información con SELECT
