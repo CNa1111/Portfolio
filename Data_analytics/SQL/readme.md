@@ -36,7 +36,7 @@ SELECT *
 FROM clientes
 ORDER BY edad DESC;
 ```
-##📊 Funciones de agregación
+## 📊 Funciones de agregación
 
 Son muy importantes para análisis de datos.
 
