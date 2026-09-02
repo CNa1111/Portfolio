@@ -10,7 +10,7 @@ Mejorar el proceso de producción y cumplir con la demanda.
 
 Para conocer como funciona actualmente nuestro proceso. 
 
-<img width="608" height="177" alt="image" src="https://github.com/user-attachments/assets/2265668d-41ae-40bc-a472-9d3d57360aa8" />
+
 
 
 ## 3.Definir las etapas y recursos
@@ -23,7 +23,7 @@ Para conocer como funciona actualmente nuestro proceso.
 
 ## 4. Calcular la capacidad de cada etapa
 
-<img width="618" height="185" alt="image" src="https://github.com/user-attachments/assets/7f43ff89-8f8e-45ea-a928-2aca7a5f203e" />
+<img width="608" height="177" alt="image" src="https://github.com/user-attachments/assets/2265668d-41ae-40bc-a472-9d3d57360aa8" />
 
 *Capacidad=3600 segundos/tiempo de ciclo (seg). cantidad de operarios*
 
