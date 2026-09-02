@@ -1,41 +1,54 @@
 # Optimización del proceso de empanada 
 
 ## Situación del problema
-Una fábrica de empanadas presenta retrasos en la entrega de pedidos durante los períodos de mayor demanda. Se busca analizar el proceso productivo, identificar el cuello de botella y proponer mejoras que permitan aumentar la capacidad sin incrementar significativamente los costos.
+Una pequeña fábrica de empanadas presenta demoras en la entrega de pedidos durante determinados períodos del día. Se busca analizar el proceso productivo, determinar si la capacidad disponible permite satisfacer la demanda, identificar restricciones y proponer mejoras.
 
 ## 1.Objetivo 
 Mejorar el proceso de producción y cumplir con la demanda.
 
-### 2.Información 
-#### Proceso de producción
+## 2.Proceso de producción
+
+Para conocer como funciona actualmente nuestro proceso. 
 
 <img width="1692" height="930" alt="ChatGPT Image 28 ago 2026, 12_41_47 a m" src="https://github.com/user-attachments/assets/3ec260b0-3fc4-4968-89a1-d19cd080f339" />
 
-## 3. Recolección de información
+## 3.Definir las etapas y recursos
 
 #### Tabla 1: Tiempos de procesos
 
-<img width="626" height="189" alt="image" src="https://github.com/user-attachments/assets/bd574885-3a82-42b0-b9a3-ebdfa640b5bf" />
+<img width="463" height="186" alt="image" src="https://github.com/user-attachments/assets/69c90da0-0192-4a88-8e02-6e8ed2b39bd4" />
+
+*Los datos utilizados son simulados con fines académicos y fueron construidos para representar un escenario hipotético de producción.*
+
+## 4. Calcular la capacidad de cada etapa
+
+<img width="618" height="185" alt="image" src="https://github.com/user-attachments/assets/7f43ff89-8f8e-45ea-a928-2aca7a5f203e" />
 
 *Capacidad=3600 segundos/tiempo de ciclo (seg). cantidad de operarios*
 
-#### Tabla 2: Producción
+❗❗ Como primera observación es que el que tiene menor capacidad es el momento de la cocción de las empanadas. Es una restricción potencial.
 
-<img width="751" height="188" alt="image" src="https://github.com/user-attachments/assets/31785a93-02bd-4c6f-87fc-ff0645f1f010" />
+## 5. Incorporamos la demanda 
 
-**Definición: WIP → cuántas empanadas están dentro del sistema esperando/procesándose.**
+#### Tabla 2: Demanda
 
-**Definición: Tiempo de espera → cuánto tiempo tiene que esperar una empanada antes de ser procesada.**
+<img width="269" height="217" alt="image" src="https://github.com/user-attachments/assets/5ce387e1-8293-4916-aa50-9db8973daed8" />
 
-*WIP acumulado= WIP anterior + entrada - salida* 
+❗❗ Acá podemos observar el comportamiento de los pedidos según la hora.
 
-! Vamos a suponer que el horno produce 72 unidades/hora
+## 6. Comparación de la Capacidad y la demanda
 
-#### Gráfico 1: Demanda vs Producción 
+<img width="527" height="221" alt="image" src="https://github.com/user-attachments/assets/0c75f140-cd9c-41dc-a2d0-cbf2b5ee4ad8" />
 
-<img width="598" height="361" alt="image" src="https://github.com/user-attachments/assets/78665a8f-ffe6-4b9e-b5ea-3c272ce26309" />
+### Gráfico 1: 
+
+<img width="593" height="355" alt="image" src="https://github.com/user-attachments/assets/68d0707a-2435-4f9e-b759-09df24f00a06" />
 
 Lo que se puede observar en el gráfico, es que la producción es constante de 72 empanadas por hora, ya que tenemos un único horno. En cambio, la demanda en ciertos momentos supera la producción. 
+
+
+
+
 
 
 
