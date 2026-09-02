@@ -18,8 +18,6 @@ Para conocer como funciona actualmente nuestro proceso.
 
 <img width="471" height="179" alt="image" src="https://github.com/user-attachments/assets/13b25e46-8790-4f6d-bce7-651b29fe7e91" />
 
-<img width="463" height="186" alt="image" src="https://github.com/user-attachments/assets/69c90da0-0192-4a88-8e02-6e8ed2b39bd4" />
-
 *Los datos utilizados son simulados con fines académicos y fueron construidos para representar un escenario hipotético de producción.*
 
 ## 4. Calcular la capacidad de cada etapa
@@ -47,6 +45,7 @@ Para conocer como funciona actualmente nuestro proceso.
 <img width="593" height="355" alt="image" src="https://github.com/user-attachments/assets/68d0707a-2435-4f9e-b759-09df24f00a06" />
 
 Lo que se puede observar en el gráfico, es que la producción es constante de 72 empanadas por hora, ya que tenemos un único horno. En cambio, la demanda en ciertos momentos supera la producción. 
+
 
 
 
