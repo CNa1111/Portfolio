@@ -16,6 +16,8 @@ Para conocer como funciona actualmente nuestro proceso.
 
 #### Tabla 1: Tiempos de procesos
 
+<img width="471" height="179" alt="image" src="https://github.com/user-attachments/assets/13b25e46-8790-4f6d-bce7-651b29fe7e91" />
+
 <img width="463" height="186" alt="image" src="https://github.com/user-attachments/assets/69c90da0-0192-4a88-8e02-6e8ed2b39bd4" />
 
 *Los datos utilizados son simulados con fines académicos y fueron construidos para representar un escenario hipotético de producción.*
