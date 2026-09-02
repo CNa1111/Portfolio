@@ -1,6 +1,17 @@
 # Aprendiendo SQL
 Práctica y aprendizaje de SQL para análisis de datos. Incluye consultas, filtros, JOINs, agregaciones, subconsultas y ejercicios prácticos.
 
+# Funciones que se utilizan
+
+**SELECT:** Sirve para seleccionar las columnas que queremos analizar
+
+**FROM:** Indica de que tabla queremos ver los datos
+
+**WHERE:** Permite filtrar registros según una condición.
+```SELECT *```
+FROM clientes
+WHERE edad > 30; 
+
 ## Prácticas con Big Query Google
 1. Analizar la información con SELECT
 
